@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thermodynamicsmod",
+  "name": "Thermodynamics Mod",
+  "description": "Thermodynamics Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yafta98"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
